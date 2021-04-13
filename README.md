@@ -3,7 +3,7 @@
 **Team Ja-Forest**
 [Amelia Waggoner](https://github.com/GoldenDog190)
 [Barrett Nance](https://github.com/baxance)
-[Matthew Simms]()
+[Matthew Simms](https://github.com/mparkersimms)
 [Leaundrae Mckinney](https://github.com/UreaLaden)
 
 
