@@ -1,5 +1,12 @@
 # Team-Agreement
 
+**Team Ja-Forest**
+[Amelia Waggoner](https://github.com/GoldenDog190)
+[Barrett Nance](https://github.com/baxance)
+[Matthew Simms]()
+[Leaundrae Mckinney](https://github.com/UreaLaden)
+
+
 ## Conflict Plan
 
 - What is the group process to resolve conflict, when it arises? Clearly identify the conflict and address the varying points of view. If unable to come to a compromise, we'll hold a group vote. If it's a tie, bring in an outside party. If anyone is getting to stressed out, take regular breaks from. Use safe words in the event, anyone needs to take a step away to cool down. 
