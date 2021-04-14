@@ -38,3 +38,6 @@
 - Who merges PRs? Everyone has the ability to create pull requests but can only merge after the PR gains approval by 2 other members
 - How often will you merge? Daily | As needed with approval dependent on potential blockers. No merges after 5PM pst. Collective review and merge in the mornings.
 - How will you communicate that it’s time to merge? Communicate intent to merge, allowing everyone to save and commit their work prior to.
+
+
+TEST CHANGE FOR PR PERMISSIONS -BN
