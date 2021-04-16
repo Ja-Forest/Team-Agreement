@@ -6,12 +6,17 @@
 [Matthew Simms](https://github.com/mparkersimms)
 [Leaundrae Mckinney](https://github.com/UreaLaden)
 
+Table of Contents |-
+------------------|----
+[User Stories](User-Stories.md) | -
+[Software Requirements](requirements.md) | -
+
 
 ## Conflict Plan
 
-- What is the group process to resolve conflict, when it arises? Clearly identify the conflict and address the varying points of view. If unable to come to a compromise, we'll hold a group vote. If it's a tie, bring in an outside party. If anyone is getting to stressed out, take regular breaks from. Use safe words in the event, anyone needs to take a step away to cool down. 
+- What is the group process to resolve conflict, when it arises? Clearly identify the conflict and address the varying points of view. If unable to come to a compromise, we'll hold a group vote. If it's a tie, bring in an outside party. If anyone is getting to stressed out, take regular breaks from. Use safe words in the event, anyone needs to take a step away to cool down.
 
-- How will you raise concerns to members who are not adequately contributing? Regular accountability checks and group standups to identify roles and responsibilities. Adequate communication and recognizing the difference between no action and getting stuck. 
+- How will you raise concerns to members who are not adequately contributing? Regular accountability checks and group standups to identify roles and responsibilities. Adequate communication and recognizing the difference between no action and getting stuck.
 
 - How and when will you escalate the conflict if your resolution attempts are unsuccessful? Enforce breaks to allow the team to collect their thoughts. If conflict exceeds an acceptable threshold, will seek assistance from TA or Instructor.  
 
@@ -38,6 +43,3 @@
 - Who merges PRs? Everyone has the ability to create pull requests but can only merge after the PR gains approval by 2 other members
 - How often will you merge? Daily | As needed with approval dependent on potential blockers. No merges after 5PM pst. Collective review and merge in the mornings.
 - How will you communicate that it’s time to merge? Communicate intent to merge, allowing everyone to save and commit their work prior to.
-
-
-TEST CHANGE FOR PR PERMISSIONS -BN
